@@ -1,0 +1,25 @@
+.div {
+    background-color: aquamarine;
+    width: 100%;
+    height: auto;
+    
+}
+.div2 {
+    background-color: red;
+    height: 200px;
+    width: 50%;
+}
+
+.div3 {
+    background-color: bisque;
+    border: 2px dotted gold;
+}
+.section {
+    border: 2px solid forestgreen;
+    margin: 20px;
+    display: inline-flex;
+}
+
+.input {
+    margin: 10px;
+}
